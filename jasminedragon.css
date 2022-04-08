@@ -61,7 +61,7 @@ text-shadow: 4px 4px #000000;}
 nav a:visited { color: #ffffff; }
 nav a:hover     { color: #ffffff; 
 text-decoration: underline wavy green;
-text-underline-offset: 1px;}
+text-underline-offset: 2px;}
 nav ul {
 list-style-type: none;
 padding-left: 0; }
