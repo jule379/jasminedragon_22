@@ -1,6 +1,6 @@
 * { box-sizing: border-box; }
 body {
-background-color: #fffff;
+background-color: #ffffff;
 background-image: url(basingse.jpg);
 background-repeat: no-repeat; 
 background-size: cover; 
@@ -31,9 +31,8 @@ header a { text-decoration: none; }
 header a:link       { color: #ffffff; }
 header a:visited { color: #231814; }
 h1 { font-size: 3em; 
-color: #white; 
-text-shadow:6px 6px #cc9900;
-}
+color: white; 
+text-shadow: 6px 6px #cc9900;}
 h2 { color: #e6ac00; }
 h3, dt { color: #e6ac00; }
 h4 { 
@@ -55,9 +54,8 @@ padding-bottom: 5px;
 width: 200px; 
 }
 nav a { text-decoration: none; }
-nav a:link       { color: #ffffff; 
-text-shadow: 4px 4px #000000;
-}
+nav a:link       { color: #ffffff;
+text-shadow: 4px 4px #000000;}
 nav a:visited { color: #ffffff; }
 nav a:hover     { color: #ffffff; }
 nav ul {
@@ -106,7 +104,6 @@ background-image: url(heroguitar.jpg);
 background-repeat: no-repeat; 
 background-size: 100% 100%; 
 }
-
 footer {
 background-color: #2E8B57; 
 font-size: .60em; 
