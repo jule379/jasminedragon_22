@@ -65,7 +65,7 @@ text-shadow: 4px 4px #000000;
 }
 nav a:visited { color: #ffffff; }
 nav a:hover     { color: #ffffff;
-text-decoration: underline wavy #ac7339;
+text-decoration: underline wavy white;
 text-underline-offset: 2px;}
 nav ul {
 list-style-type: none;
