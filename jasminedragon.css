@@ -23,9 +23,9 @@ background-color: #2E8B57;
 background-image: url(JasmineDragon.jpg);
 background-repeat: no-repeat; 
 color: #231814;
-padding-left: 255px;
-padding-top: 5px; 
-padding-bottom: 5px; 
+padding-left: 250px;
+padding-top: 4px; 
+padding-bottom: 4px; 
 }
 header a { text-decoration: none; }
 header a:link       { color: #ffffff; }
