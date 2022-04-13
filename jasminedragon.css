@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 body {
-background-color: #ffffff;
-background-image: url(anime2.jpg);
+background-color: #fffff;
+background-image: url(basingse.jpg);
 background-repeat: no-repeat; 
 background-size: cover; 
 background-attachment: fixed; 
@@ -20,10 +20,10 @@ padding: 0;
 }   
 header { 
 background-color: #2E8B57; 
-background-image: url(JasmineDragon.jpg);
+background-image: url(coffeelogo.jpg);
 background-repeat: no-repeat; 
 color: #231814;
-padding-left: 250px;
+padding-left: 240px;
 padding-top: 5px; 
 padding-bottom: 5px; 
 }
@@ -31,17 +31,20 @@ header a { text-decoration: none; }
 header a:link       { color: #ffffff; }
 header a:visited { color: #231814; }
 h1 { font-size: 3em; 
-color: white; 
-text-shadow: 6px 6px #cc9900;}
+color: #white; 
+text-shadow:6px 6px #cc9900;
+}
 h2 { color: #e6ac00; }
-h3, dt { color: #e6ac00; }
+h4, dt { color: #b35900;
+text-shadow:2px 2px #000000;
+}
 h4 { 
-background-color: #D2B48C;
-font-size: 1.2em;
+background-color: #FEF6C2;
+font-size: 1.4em;
 padding-left: .5em;
 padding-bottom: 0;
 text-transform: uppercase; 
-border-bottom: 1px solid #221811; 
+border-bottom: 0px solid #221811; 
 clear: left; 
 } 
 nav { 
@@ -54,18 +57,11 @@ padding-bottom: 5px;
 width: 200px; 
 }
 nav a { text-decoration: none; }
-nav a:link       { color: #ffffff;
-text-shadow: 4px 4px #000000;}
-nav a:visited { color: #ffffff; }
-nav a:hover     { color: #ffffff; 
-text-decoration: underline wavy green;
-text-underline-offset: 1px;}
-nav ul {
-list-style-type: none;
-padding-left: 0; }
-nav li {
-padding-bottom: 10px;  
+nav a:link       { color: #ffffff; 
+text-shadow: 4px 4px #000000;
 }
+nav a:visited { color: #ffffff; }
+nav a:hover     { color: #ffffff; }
 nav ul {
 list-style-type: none; 
 padding-left: 0; }
@@ -96,7 +92,7 @@ padding-left: 10px;
 padding-right: 10px; }
 #homehero { 
 height: 300px; 
-background-image: url(basingse2.jpg);
+background-image: url(hero.jpg);
 background-repeat: no-repeat; 
 background-size: 100% 100%; 
 }
@@ -108,10 +104,11 @@ background-size: 100% 100%;
 }
 #heroguitar {
 height: 300px; 
-background-image: url(heroguitar.jpg);
+background-image: url(bss.jpg);
 background-repeat: no-repeat; 
 background-size: 100% 100%; 
 }
+
 footer {
 background-color: #2E8B57; 
 font-size: .60em; 
